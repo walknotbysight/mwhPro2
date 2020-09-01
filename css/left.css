@@ -1,0 +1,44 @@
+#mwh_left #left_login {
+	background-image:url(../images/login.jpg);
+	background-repeat:no-repeat;
+	padding-top:55px;
+	padding-left:24px;
+	padding-right:24px;
+	padding-bottom:5px;
+}
+#mwh_left #left_login li {
+	margin-top:3px;
+}
+#mwh_left li a {
+	color:#000000;
+}
+#mwh_left #left_login .btnStyle {
+	width:35px;
+}
+#mwh_left #left_login .txtStyle {
+	border:none;
+	border-bottom:solid 1px;
+	width:100px;
+}
+#mwh_left #left_category {
+	background-image:url(../images/category.jpg);
+	background-repeat:no-repeat;
+	padding:50px 25px 3px 25px;
+}
+#mwh_left #left_category li{
+	line-height:24px;
+	padding-left:20px;
+	border-bottom:dashed 1px;
+	background-image:url(../images/icon1.gif);
+	background-repeat:no-repeat;
+	background-position:8px 9px;
+}
+#mwh_left #left_category h3{
+	margin-top:15px;
+	margin-bottom:3px;
+	background-color:#FFDBDC;
+}
+#mwh_left #left_category li a:hover {
+	color:#CC3333;
+	text-decoration:underline;
+}

@@ -1,0 +1,26 @@
+#mwh_top {
+	height:155px;
+}
+
+#mwh_top #top_banner{
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	height:120px;
+}
+#mwh_top #top_links li{
+	float:left;
+	text-align:center;
+	width:100px;
+}
+#mwh_top #top_links a{
+	color:#993300;
+	line-height:33px;
+	display:block;
+	background-image:url(../images/button1.jpg);
+	background-repeat:no-repeat;
+}
+#mwh_top #top_links a:hover{
+	color:#993300;
+	background-image:url(../images/button1_bg.jpg);
+	background-repeat:no-repeat;
+}

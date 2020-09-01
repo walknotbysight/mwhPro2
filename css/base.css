@@ -1,0 +1,46 @@
+/* 公共部分 */
+*{
+	font-size:12px;
+	margin:0px;
+	padding:0px;
+}
+#p_container{
+	margin:0px auto 0px auto;
+	width:700px;
+	position:relative;/*保证内容不跑出范围*/
+}
+#mwh_top{
+
+}
+#mwh_left{
+	background-color:#FFFFFF;
+	width:180px;
+	margin-top:2px;
+	background-image:url(../images/leftbottom.jpg);
+	background-repeat:no-repeat;
+	background-position:bottom;
+	float:left;
+}
+#mwh_right{
+	width:518px;
+	margin-top:2px;
+	margin-left:2px;
+	float:left;
+}
+body{
+	background-color:#FFDBDC;
+}
+a{
+	text-decoration:none;
+}
+img{
+
+}
+a:hover{
+	position:relative;
+	right:1px;
+	bottom:1px;
+}
+ul{
+	list-style-type:none;
+}
